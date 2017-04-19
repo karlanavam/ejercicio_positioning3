@@ -1,0 +1,56 @@
+#canchaPasto {
+  position: relative;
+  background-color: #2ED64F;
+  width: 700px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.porteria {
+  position: absolute;
+  width: 115px;
+  height: 250px;
+  margin-top: 70px;
+  margin-left: -3px;
+  border: 3px solid white;
+}
+
+.porteriaDer {
+  margin-left: 583px;
+}
+
+#lineaMedia {
+  width: 0px;
+  height: 700px;
+  border: 2px solid white;
+  margin-left: 340px;
+}
+
+.circulo {
+     width: 120px;
+     height: 120px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 2px solid white;
+     background-color: #2ED64F;
+     position: absolute;
+     margin-top: 140px;
+     margin-left: 280px;
+}
+
+.circuloPeque {
+  width: 15px;
+  height: 15px;
+  background-color: #fff;
+}
+
+.circuloPeque2 {
+  margin-left: 110px;
+  margin-top: 300px;
+}
+
+.circuloPeque3 {
+  margin-left: 510px;
+  margin-top: 200px;
+}
